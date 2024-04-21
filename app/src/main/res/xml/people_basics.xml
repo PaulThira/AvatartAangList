@@ -1,0 +1,52 @@
+<data>
+    <item>
+        <name>Zuko</name>
+        <age>16</age>
+        <job> firelord</job>
+    </item>
+    <item>
+        <name>Katara</name>
+        <age>14</age>
+        <job> waterbender master</job>
+    </item>
+    <item>
+        <name>Toph</name>
+        <age>12</age>
+        <job> metalbender</job>
+    </item>
+    <item>
+        <name>Iroh</name>
+        <age>57</age>
+        <job> wise old man</job>
+    </item>
+    <item>
+        <name>Azula</name>
+        <age>14</age>
+        <job> crazy firebender</job>
+    </item>
+    <item>
+        <name>Aang</name>
+        <age>12</age>
+        <job> the Avatar</job>
+    </item>
+    <item>
+        <name>Suki</name>
+        <age>16</age>
+        <job> warrior</job>
+    </item>
+    <item>
+        <name>Mai</name>
+        <age>16</age>
+        <job> noble warior</job>
+    </item>
+    <item>
+        <name>Tai Lee</name>
+        <age>16</age>
+        <job> gymnast</job>
+    </item>
+    <item>
+        <name>Ozai</name>
+        <age>34</age>
+        <job> the villan</job>
+    </item>
+</data>

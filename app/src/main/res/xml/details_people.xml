@@ -1,0 +1,81 @@
+<data>
+    <item>
+        <detail>Zuko is a Fire Nation royal and firebending master who reigned as Fire Lord from 100 AG until his abdication in 167 AG.
+            He is the eldest child and only son of Princess Ursa and Fire Lord Ozai. Originally the primary enemy of Team Avatar, Zuko devoted three years to trying to capture the long-lost Avatar to end his banishment and regain his honor as Crown Prince of the Fire Nation.
+            He is recognizable by the distinctive burn scar on the left side of his face, which was given to him by his father, Ozai, shortly before his banishment as a result of an incident in which he unintentionally disrespected his father by speaking out of turn and refusing to duel him
+        </detail>
+        <address>res\drawable\zuko.jpeg</address>
+    </item>
+    <item>
+        <detail>Katara is a waterbending master, born in the Southern Water Tribe to Chief Hakoda and his wife Kya. During her childhood, she was the only waterbender living in the Southern Water Tribe. After losing her mother in a Fire Nation raid and her father left to battle against the Fire Nation in the Hundred Year War, she was raised by her paternal grandmother Kanna alongside her older brother Sokka. As a teenager, Katara and her brother discovered the young Air Nomad Avatar, Aang, who had been frozen in an iceberg with his bison, Appa, for a century.[14] In need of a waterbending master, the siblings and Aang left the South Pole on a journey toward the Northern Water Tribe.
+        </detail>
+        <address>res\drawable\katara.jpg</address>
+
+    </item>
+    <item>
+        <detail>
+            Toph Beifong is an earthbending master, one of the most powerful of her time, and the discoverer of metalbending. Blind since birth, Toph was constantly treated condescendingly because of her visual impairment, particularly by her overprotective parents, Lao and Poppy Beifong. Upon discovering badgermoles, earthbending animals who are also blind, she learned how to use earthbending as an extension of her senses. This gave her the ability to "see" every vibration that passes through the ground
+        </detail>
+        <address>res\drawable\toph.jpg</address>
+
+    </item>
+    <item>
+        <detail>
+            Iroh was a retired Fire Nation general, a former Crown Prince of the nation, a Grand Lotus of the Order of the White Lotus,[1] a firebending master, and a wise mentor to his nephew Zuko.[9] He was the elder son of Fire Lord Azulon and Ilah and the older brother of Ozai.[10] Iroh's well-known ability to breathe fire and his claims of "slaying" the last dragon earned him the honorary title "The Dragon of the West".
+        </detail>
+        <address>
+            res\drawable\iroh.jpg
+        </address>
+
+    </item>
+    <item>
+        <detail>Azula was a princess of the Fire Nation, daughter of Fire Lord Ozai and Ursa, younger sister of Zuko, and older half-sister of Kiyi. She was a key adversary of Team Avatar,[5] chasing Avatar Aang and her banished brother far across the Earth Kingdom accompanied by her then two best friends, Mai and Ty Lee.
+        </detail>
+        <address>
+            res\drawable\azula.jpeg
+        </address>
+
+    </item>
+    <item>
+        <detail>Aang was an Air Nomad born in 12 BG and the Avatar during the Hundred Year War, succeeding Avatar Roku[7] and preceding Avatar Korra. As the Avatar of his time, he was the only person capable of using all four bending arts: airbending, waterbending, earthbending, and firebending. He was also one of a select few Avatars and one of the first in many cycles[8] to learn the ancient art of energybending as well as the first Avatar known to have actively used the technique.
+        </detail>
+        <address>
+            res\drawable\aang.jpeg
+        </address>
+
+    </item>
+    <item>
+        <detail>Suki was the leader of one of the Kyoshi Warrior bands of the Earth Kingdom's Kyoshi Island.[2] Having begun her training when she was only eight years old,[3] she was well-respected by her fellow warriors for her leadership and combat skills. When Team Avatar arrived on Kyoshi Island, Suki and a few other Kyoshi Warriors captured them, thinking they were Fire Nation spies, but released them and befriended them after realizing Aang was the Avatar.[1] Inspired by the outsiders for helping save their village from Prince Zuko, she and the other Kyoshi Warriors left the island to help the Earth Kingdom fight against the Fire Nation. During their journey, she protected the Avatar's lost sky bison, Appa, from falling into the enemy's hands, but she and the other Kyoshi Warriors were defeated by Princess Azula, Mai, and Ty Lee.[4]
+        </detail>
+        <address>
+            res\drawable\aang.jpeg
+        </address>
+
+    </item>
+    <item>
+        <detail>Mai was the daughter and eldest child of Ukano, the former governor of New Ozai, and his wife, Michi. During the last year of the Hundred Year War, she became one of Princess Azula's main allies, and therefore one of Team Avatar's greatest foes, as well as Prince Zuko's love interest once he returned to the Fire Nation. As one of the most privileged girls in the Fire Nation, she attended the Royal Fire Academy for Girls[2] and became a friend of Princess Azula and Ty Lee at a young age.
+        </detail>
+        <address>
+            res\drawable\mai.jpeg
+        </address>
+
+    </item>
+    <item>
+        <detail>Ty Lee was a cheerful and energetic girl who hailed from the Fire Nation. As the daughter of a nobleman, she attended the Royal Fire Academy for Girls with her friends, Princess Azula and Mai.[3] Growing up, Ty Lee dealt with six sisters who shared identical appearances with her. This caused her to feel a loss of individuality and led her to have a longing to be a unique, recognizable person, and a desire for attention from other people.[1] Because of this, after she matured, she ran away from her home and joined a Fire Nation circus, becoming a skilled acrobatic performer and gaining more personal attention.
+        </detail>
+        <address>
+            res\drawable\tailee.jpeg
+        </address>
+
+    </item>
+    <item>
+        <detail>Ozai was the ruler of the Fire Nation during the final years of the Hundred Year War, reigning as Fire Lord from 95 to 100 AG.[5] He was the second son of Fire Lord Azulon and Ilah, the younger brother of Iroh, uncle of Lu Ten, husband to Ursa, the father of Prince Zuko and Princess Azula, and the paternal grandfather of Izumi.[6] Ozai was a firebending master and, prior to the end of the war, was believed to be the most powerful firebender in the world.
+        </detail>
+        <address>
+            res\drawable\ozai.jpeg
+        </address>
+
+    </item>
+
+
+</data>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainActivity2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="int position = getAdapterPosition(); // Get the position of the item clicked&#xA;                    if (position != RecyclerView.NO_POSITION) {&#xA;                        // Perform your action based on the position&#xA;                        // For example, you can call a method in your activity or fragment&#xA;                        if (listener != null) {&#xA;                            listener.onItemClick(position);&#xA;                        }&#xA;                    }" />
+    <activity
+        android:id="@+id/mainActivity2"
+        android:name="com.example.myapplicationforshit.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" >
+
+    </activity>
+    <activity
+        android:id="@+id/basicDetails2"
+        android:name="com.example.myapplicationforshit.BasicDetails"
+        android:label="activity_basic_details"
+        tools:layout="@layout/activity_basic_details">
+
+    </activity>
+
+    <action
+        android:id="@+id/action_global_basicDetails2"
+        app:destination="@id/basicDetails2"
+        >
+
+    </action>
+    <activity
+        android:id="@+id/update_Person"
+        android:name="com.example.myapplicationforshit.Update_Person"
+        android:label="activity_update_person"
+        tools:layout="@layout/activity_update_person" />
+    <action
+        android:id="@+id/action_global_update_Person"
+        app:destination="@id/update_Person" />
+    <activity
+        android:id="@+id/create"
+        android:name="com.example.myapplicationforshit.Create"
+        android:label="Create" />
+</navigation>
